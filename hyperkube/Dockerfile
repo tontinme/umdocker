@@ -1,1 +1,1 @@
-from quay.io/coreos/hyperkube:v1.9.5_coreos.0
+from gcr.io/google-containers/hyperkube:v1.9.5
